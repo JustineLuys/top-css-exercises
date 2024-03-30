@@ -5,3 +5,13 @@
     font-size: 20px;
     text-align: center;
 }
+/* We can also use class class for descendant combinator
+
+.container .text
+{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
